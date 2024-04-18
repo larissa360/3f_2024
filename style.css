@@ -11,3 +11,13 @@
     background-color: var(--cor-de-fundo);
     color: var(--branco);
 }
+span{
+    color: #6FFF57;
+}
+
+.conteudoprin-principal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
